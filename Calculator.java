@@ -7,6 +7,11 @@ public class Calculator
 	{ 
 	// from sister
 		return (a - b);
+	
+	int division(int x, int y)
+	{ 
+	// from sister
+		return (a - b);
 	}
 	
 
